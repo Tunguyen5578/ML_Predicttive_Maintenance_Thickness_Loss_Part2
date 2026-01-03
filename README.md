@@ -9,7 +9,7 @@ The project leverages Python with Pandas, Scikit-learn, and time-series models (
 - **ML Models**: Regression (Linear, Random Forest), deep learning (LSTM/GRU for sequences), anomaly detection for early warnings.[6][7]
 - **Evaluation**: Metrics including RMSE, MAE, R²; cross-validation for industrial robustness.
 - **Visualization**: Plots for thickness trends, predictions vs. actuals using Matplotlib/Seaborn.
-- **Deployment Ready**: Scripts for model saving/loading, suitable for on-premise integration with tools like n8n or agentic AI [user-information].
+- **Deployment Ready**: Scripts for model saving/loading, suitable for on-premise integration with tools like n8n or agentic AI.
 
 ## Tech Stack
 | Category       | Tools/Libraries                  |
@@ -83,13 +83,16 @@ Expected output: RMSE < 0.1mm, suitable for pipeline integrity.[3]
 - Ensemble with digital twins (XMPro-style).[8]
 
 ## Contributing
-Fork, PR with tests. Focus on oil/gas use cases [user-information].
+## Contributing
+
+Fork the repo and submit PRs with tests. Focus on oil/gas use cases like pipeline corrosion prediction.
+**Contact**: Tu Nguyen | tunguyen@petrosouth.vn | https://www.linkedin.com/in/turnernguyen/.
 
 ## License
 MIT License.[1]
 
 ## Acknowledgments
-Inspired by predictive maintenance benchmarks. Contact for collaborations in energy transition [user-information].[4]
+Inspired by predictive maintenance benchmarks. Contact for collaborations in energy transition Tu Nguyen | tunguyen@petrosouth.vn | https://www.linkedin.com/in/turnernguyen/.[4]
 
 [1](https://github.com/Tunguyen5578/ML_Predicttive_Maintenance_Thickness_Loss_Part2)
 [2](https://publica.fraunhofer.de/entities/publication/0003a393-f191-48fa-91e9-ac993c23a265)
